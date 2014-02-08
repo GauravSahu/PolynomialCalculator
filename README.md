@@ -1,4 +1,5 @@
 Let f(n) = 2*n+3,
+
 for n = 3, f(3) = 2*3+3 = 9
 
 Now let's imagine a java function calculating such polynomial function passed as a String to it for the input values.
