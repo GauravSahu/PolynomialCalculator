@@ -7,4 +7,4 @@ It's simply a library which turns String to Mathematical Expression and find out
 Not so efficient, but existing JAVA SE solution of turning a String to Mathematical Expression is mentioned here. 
 http://stackoverflow.com/questions/2605032/using-eval-in-java/2605051#2605051
 
-We are trying to find out a solution for it.
+We are trying to find out an more efficient solution for it.
